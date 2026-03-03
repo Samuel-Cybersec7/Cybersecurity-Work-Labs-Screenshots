@@ -1,1 +1,1 @@
-# Cybersecurity-Work-Labs-Screenshots
+# Cybersecurity-Labs
