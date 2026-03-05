@@ -1,18 +1,28 @@
-# Cybersecurity-Labs
-# Samuel Thipe - Cybersecurity Portfolio
+# Samuel Thipe  
 
-Welcome to my cybersecurity learning repository.
+🔐 Aspiring Cybersecurity Analyst  
 
-## Certifications
-- ISC2 Certified in Cybersecurity (CC) – In Progress
-- Google Cybersecurity Professional Certificate – In Progress
-- Cisco Junior Cybersecurity Analyst – In Progress
+Currently studying and building hands-on labs in cybersecurity.I already Have Google Cybersecurity Proffesional Certificate
 
-## Tools
+## 🎓 Certifications (In Progress)
+- Google IT support Certificate
+- ISC2 Certified Cybersecury
+- Comptia Security+
+- Cisco Introduction In Cybersecurity
+- Cisco Junior Cybersecurity Analyst
+
+## 🛠 Tools
 - Wireshark
 - Kali Linux
 - Nmap
 - Linux
+- GitHub
+- Try Hack Me
 
-## Labs
-This repository contains screenshots and notes from my cybersecurity labs and practice exercises.
+## 🧪 Labs
+- Network traffic analysis using Wireshark  
+- Network scanning using Nmap  
+- Security labs from Cisco Networking Academy And Try Hack Me
+
+## 🎯 Goal
+To become a SOC Analyst and cybersecurity specialist.
